@@ -119,6 +119,17 @@ A small, rule‑constrained rewriting model that converts any English into Austr
 
 ---
 
+Here is a version that matches the tonal profile, structural density, and paragraph length of the surrounding roadmap entries, with tags in your established format:
+
+---
+
+**[Distributional Displacement Engine](https://github.com/WilliamMurray-research/2026-1019-D)**  (*SWI‑Prolog, Common Lisp, Julia, Python*)
+
+A governed rewriting system that induces human‑typical, non‑ergodic token distributions through deterministic structural perturbation. The engine preserves semantic content while reshaping clause‑length variance, syntactic asymmetry, lexical idiosyncrasy, motif recurrence, and rhythm irregularity, replacing model‑smooth distributions with the lumpy, uneven statistical profile characteristic of human writing. This project provides a formal substrate for distributional displacement, enabling watermark removal research, adversarial robustness testing, and entropy‑based linguistic analysis. Positioned as the anti‑normative counterpart to AusRewrite, it completes the bidirectional rewriting architecture by enforcing human‑irregularity constraints rather than style‑manual constraints, integrating upstream with metamorphic logic systems and downstream with operator‑tier linguistic frameworks.    
+`distribution sculpting` `semantic preservation` `entropy displacement` `syntactic asymmetry` `motif operators` `token‑variance modelling` `watermark perturbation` `governed rewriting`
+
+---
+
 **[Mojo Operator Alignment & Kernel Synthesis](https://github.com/WilliamMurray-research/2026-1013-D)** (*Gemma-Coder, Modular Mojo Toolchain, MLIR Dialect Verification, Synthetic Kernel Curriculum*)
 
 A governed, operator-tier fine-tuning pipeline aligning a coder model to Mojo’s syntax, memory ownership semantics, and MLIR-lowerable GPU/SIMD kernel patterns. Addresses high-level data sparsity via a synthetically mutated kernel curriculum grounded in hand-optimized primitives. Evaluates code generation across a strict three-stage deterministic harness: AST parsing, MLIR pass verification (`--emit mlir`), and hardware execution benchmarks against native C/CUDA baselines.  
