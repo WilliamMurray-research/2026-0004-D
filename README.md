@@ -23,6 +23,14 @@ This repository defines the canonical template framework used across all project
 
 ---
 
+## [Unified Asset Registry](https://github.com/WilliamMurray-research/2026-0002-D)
+
+The Unified Asset Registry is the governed, canonical record of every formal, operational, and conceptual artefact produced across the research ecosystem. It consolidates all foundational materials - including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and conceptual frameworks - into a single, structured, audit‑ready repository.  
+This registry serves as the operational backbone for the broader programme: a unified source of truth that enforces structural invariants, preserves provenance, and maintains coherence across all projects and domains. It is designed for due‑diligence clarity, long‑arc stability, and reproducible governance, ensuring that every artefact is catalogued, versioned, and integrated within a consistent architectural framework.  
+`provenance tracking` `structural invariants` `governed repository` `audit‑ready architecture` `programme coherence` `versioned artefacts` `canonical source‑of‑truth` `long‑arc governance` `cross‑domain integration`
+
+---
+
 **[Digital Twin Wallpaper](https://github.com/WilliamMurray-research/2026-1001-D)**   (*SWI-Prolog, Python, JSON*)
 
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.  
@@ -42,6 +50,7 @@ A distributed plausibility‑anchored refinement system for stabilising conjectu
 A dual‑layer system indexing and relating the entire research corpus (~9,500 files). The Knowledge Layer provides the semantic substrate required for programme‑level governance: the mature instantiations of both the Project Template Framework (0.0) and the Unified Asset Registry depend on this project for structural invariants, provenance tracking, and cross‑domain coherence.  
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
 
+---
 
 **[Knowledge Layer Sandbox](https://github.com/WilliamMurray-research/2026-1004-D)**  
 
@@ -60,6 +69,8 @@ A version‑controlled research system - a stripped-down local CLI with all extr
 
 Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.  
 `graph theory` `spectral methods` `numerical computing` `Julia`
+
+---
 
 **[Nonlinear Sigmoidal Hashimoto Dynamics](https://github.com/WilliamMurray-research/2026-1007-D)** (*Julia*)
 
@@ -142,14 +153,6 @@ A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices,
 
 A symbolic-geometric digital twin framework modelling fragmented landscapes as a fiber bundle manifold stack, with a dynamic DSL for describing ecological entities, relations, and rewriting rules. Designed as the convergence point of the tensor algebra (9.0), Prolog metamorphism (6.0), and Lisp homoiconicity (7.0) workstreams.  
 `fiber bundles` `manifold stack` `dynamic DSL` `ecological connectivity` `digital twin` `symbolic rewriting` `landscape restoration`
-
----
-
-## [Unified Asset Registry](https://github.com/WilliamMurray-research/2026-0002-D)
-
-The Unified Asset Registry is the governed, canonical record of every formal, operational, and conceptual artefact produced across the research ecosystem. It consolidates all foundational materials - including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and conceptual frameworks - into a single, structured, audit‑ready repository.  
-This registry serves as the operational backbone for the broader programme: a unified source of truth that enforces structural invariants, preserves provenance, and maintains coherence across all projects and domains. It is designed for due‑diligence clarity, long‑arc stability, and reproducible governance, ensuring that every artefact is catalogued, versioned, and integrated within a consistent architectural framework.  
-`provenance tracking` `structural invariants` `governed repository` `audit‑ready architecture` `programme coherence` `versioned artefacts` `canonical source‑of‑truth` `long‑arc governance` `cross‑domain integration`
 
 ---
 
