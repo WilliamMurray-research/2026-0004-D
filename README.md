@@ -119,10 +119,6 @@ A small, rule‑constrained rewriting model that converts any English into Austr
 
 ---
 
-Here is a version that matches the tonal profile, structural density, and paragraph length of the surrounding roadmap entries, with tags in your established format:
-
----
-
 **[Distributional Displacement Engine](https://github.com/WilliamMurray-research/2026-1019-D)**  (*SWI‑Prolog, Common Lisp, Julia, Python*)
 
 The anti‑normative counterpart to AusRewrite, it completes the bidirectional rewriting architecture by enforcing human‑irregularity constraints rather than style‑manual constraints, integrating upstream with metamorphic logic systems and downstream with operator‑tier linguistic frameworks.    
