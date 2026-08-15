@@ -156,4 +156,4 @@ Foundations consolidates the mathematical curriculum required to formally prove 
 
 ---
 
-[About William Murray]
+[About William Murray](https://github.com/WilliamMurray-research/2026-about)
