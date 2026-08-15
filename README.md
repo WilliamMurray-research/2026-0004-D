@@ -16,14 +16,15 @@ The projects are not independent exercises. Each one is scoped to teach a single
 
 &nbsp;
 
-**[Project Template Framework](https://github.com/WilliamMurray-research/2026-0001-D)** (*C++20, SWI-Prolog, YAML*)
+**[Project Template Framework](https://github.com/WilliamMurray-research/2026-0001-D)**   
+(*C++20, SWI-Prolog, YAML*)
 
 This repository defines the canonical template framework used across all projects. It contains multiple documents, specifications, and structural standards that together form a complete operational scaffold. Each project must instantiate this framework in full, preserving all directories, files, and structural invariants, even when individual branches contain no artefacts. The framework provides an ISO‑aligned standardisation baseline, ensuring uniformity, repeatability, and auditability across all projects. By enforcing a consistent structure and governance model, it reduces variability, reduces cognitive load, improves maintainability, increases operational efficiency, and enables tooling interoperability in accordance with established principles of technical standardisation.  
 `standardisation` `structural invariants` `project scaffolding` `governance model` `workflow design` `Prolog integration` `YAML specifications` `auditability` `tooling interoperability`
 
 ---
 
-## [Unified Asset Registry](https://github.com/WilliamMurray-research/2026-0002-D)
+**[Unified Asset Registry](https://github.com/WilliamMurray-research/2026-0002-D)**
 
 The Unified Asset Registry is the governed, canonical record of every formal, operational, and conceptual artefact produced across the research ecosystem. It consolidates all foundational materials - including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and conceptual frameworks - into a single, structured, audit‑ready repository.  
 This registry serves as the operational backbone for the broader programme: a unified source of truth that enforces structural invariants, preserves provenance, and maintains coherence across all projects and domains. It is designed for due‑diligence clarity, long‑arc stability, and reproducible governance, ensuring that every artefact is catalogued, versioned, and integrated within a consistent architectural framework.  
@@ -31,21 +32,24 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
-**[Digital Twin Wallpaper](https://github.com/WilliamMurray-research/2026-1001-D)**   (*SWI-Prolog, Python, JSON*)
+**[Digital Twin Wallpaper](https://github.com/WilliamMurray-research/2026-1001-D)**   
+(*SWI-Prolog, Python, JSON*)
 
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.  
 `systems architecture` `DSL design` `Prolog` `deterministic graphics`
 
 ---
 
-**[Conjecture Convergence Engine](https://github.com/WilliamMurray-research/2026-1002-D)** (*SWI-Prolog, Bash, llama.cpp*)
+**[Conjecture Convergence Engine](https://github.com/WilliamMurray-research/2026-1002-D)**  
+(*SWI-Prolog, Bash, llama.cpp*)
 
 A distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
 `multi‑node orchestration` `symbolic verification` `plausibility refinement` `convergence detection`
 
 ---
 
-**[Knowledge Layer](https://github.com/WilliamMurray-research/2026-1003-D)** (*Bash + curl, PostgreSQL ≥13, Memgraph 4.x, llama.cpp (local host), .md*)
+**[Knowledge Layer](https://github.com/WilliamMurray-research/2026-1003-D)**  
+(*Bash + curl, PostgreSQL ≥13, Memgraph 4.x, llama.cpp (local host), .md*)
 
 A dual‑layer system indexing and relating the entire research corpus (~9,500 files). The Knowledge Layer provides the semantic substrate required for programme‑level governance: the mature instantiations of both the Project Template Framework (0.0) and the Unified Asset Registry depend on this project for structural invariants, provenance tracking, and cross‑domain coherence.  
 `relational schema` `graph databases` `semantic indexing` `knowledge-graph queries`
@@ -58,7 +62,8 @@ The Knowledge Layer Sandbox is a governed, synthetic micro‑ecosystem designed 
 
 ---
 
-**[Local Git](https://github.com/WilliamMurray-research/2026-1005-D)** (*Python, Rust*)
+**[Local Git](https://github.com/WilliamMurray-research/2026-1005-D)**  
+(*Python, Rust*)
 
 A version‑controlled research system - a stripped-down local CLI with all extras removed.  
 `Git workflows` `metadata design` `provenance tracking` `structured research`
