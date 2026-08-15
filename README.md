@@ -125,7 +125,7 @@ Here is a version that matches the tonal profile, structural density, and paragr
 
 **[Distributional Displacement Engine](https://github.com/WilliamMurray-research/2026-1019-D)**  (*SWI‑Prolog, Common Lisp, Julia, Python*)
 
-A governed rewriting system that induces human‑typical, non‑ergodic token distributions through deterministic structural perturbation. The engine preserves semantic content while reshaping clause‑length variance, syntactic asymmetry, lexical idiosyncrasy, motif recurrence, and rhythm irregularity, replacing model‑smooth distributions with the lumpy, uneven statistical profile characteristic of human writing. This project provides a formal substrate for distributional displacement, enabling watermark removal research, adversarial robustness testing, and entropy‑based linguistic analysis. Positioned as the anti‑normative counterpart to AusRewrite, it completes the bidirectional rewriting architecture by enforcing human‑irregularity constraints rather than style‑manual constraints, integrating upstream with metamorphic logic systems and downstream with operator‑tier linguistic frameworks.    
+The anti‑normative counterpart to AusRewrite, it completes the bidirectional rewriting architecture by enforcing human‑irregularity constraints rather than style‑manual constraints, integrating upstream with metamorphic logic systems and downstream with operator‑tier linguistic frameworks.    
 `distribution sculpting` `semantic preservation` `entropy displacement` `syntactic asymmetry` `motif operators` `token‑variance modelling` `watermark perturbation` `governed rewriting`
 
 ---
