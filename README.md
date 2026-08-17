@@ -1,3 +1,29 @@
+`2026-0004-D-read-001.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-0004-D-read-001`  
+# Foundations Asset Registry
+### Governance  
+
+**Type**: read   
+**Version**: 1.0       
+
+William Murray  
+Research Architect  
+17 August 2026  
+
+**Status**: Stable        
+
+**Scope**: This registry contains a Table of Contents, linked to all public projects within the research ecosystem.    
+
+**Primary Model / Scheme**: `2026-0001-D-tmp-001` 
+
+---
+
+
 <div align="center">
 
 | Ideas in pipeline | Research files |
