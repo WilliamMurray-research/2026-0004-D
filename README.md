@@ -5,7 +5,7 @@
 **CLASSIFICATION**: D  
 
 **Document Reference**: `2026-0004-D-read-001`  
-# Foundations Asset Registry
+# Foundations - README. 
 ### Governance  
 
 **Type**: read   
