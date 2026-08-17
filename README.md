@@ -15,11 +15,11 @@ William Murray
 Research Architect  
 17 August 2026  
 
-**Status**: Stable        
+**Status**: Draft        
 
 **Scope**: This registry contains a Table of Contents, linked to all public projects within the research ecosystem.    
 
-**Primary Model / Scheme**: `2026-0001-D-tmp-001` 
+**Primary Model / Scheme**: `2026-0001-D-tmp-001`  **create ToC tmp**
 
 ---
 
