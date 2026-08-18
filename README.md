@@ -16,7 +16,7 @@ Research Architect
 
 **Status**: Draft        
 
-**Scope**: This 'README` contains the Table of Contents, linked to all public projects within the UOA ecosystem.    
+**Scope**: This `README` contains the Table of Contents, linked to all public projects within the UOA ecosystem.    
 
 **Primary Model / Scheme**: `2026-0001-D-tmp-001`  **create ToC tmp**
 
