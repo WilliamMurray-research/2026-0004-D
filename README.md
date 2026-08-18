@@ -58,7 +58,7 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
-**[Digital Twin Wallpaper](https://github.com/WilliamMurray-research/2026-1001-D)**   
+**[Dynamic Island Wallpaper](https://github.com/WilliamMurray-research/2026-1001-D)**   
 (*SWI-Prolog, Python, JSON*)
 
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.  
