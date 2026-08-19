@@ -60,7 +60,7 @@ This registry serves as the operational backbone for the broader programme: a un
 **[Dynamic Island Wallpaper](https://github.com/WilliamMurray-research/2026-2001-D)**   
 (*SWI-Prolog, Python, JSON*)
 
-A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.  
+A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.  Some of the tooling I'm using is proprietary, so I have made the repository private for the moment.
 `systems architecture` `DSL design` `Prolog` `deterministic graphics`
 
 ---
