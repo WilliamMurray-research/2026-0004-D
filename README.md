@@ -67,7 +67,7 @@ _This repository is currently private due to its integration with proprietary re
 
 ---
 
-**[Conjecture Convergence Engine](https://github.com/WilliamMurray-research/2026-1002-D)**  
+**[Conjecture Convergence Engine](https://github.com/WilliamMurray-research/2026-2004-D)**  
 (*SWI-Prolog, Bash, llama.cpp*)
 
 A distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
@@ -75,7 +75,7 @@ A distributed plausibility‑anchored refinement system for stabilising conjectu
 
 ---
 
-**[Knowledge Layer](https://github.com/WilliamMurray-research/2026-1003-D)**  
+**[Knowledge Layer](https://github.com/WilliamMurray-research/2026-2003-D)**  
 (*Bash + curl, PostgreSQL ≥13, Memgraph 4.x, llama.cpp (local host), .md*)
 
 A dual‑layer system indexing and relating the entire research corpus (~9,500 files). The Knowledge Layer provides the semantic substrate required for programme‑level governance: the mature instantiations of both the Project Template Framework (0.0) and the Unified Asset Registry depend on this project for structural invariants, provenance tracking, and cross‑domain coherence.  
@@ -83,13 +83,13 @@ A dual‑layer system indexing and relating the entire research corpus (~9,500 f
 
 ---
 
-**[Knowledge Layer Sandbox](https://github.com/WilliamMurray-research/2026-1004-D)**  
+**[Knowledge Layer Sandbox](https://github.com/WilliamMurray-research/2026-2006-D)**  
 
 The Knowledge Layer Sandbox is a governed, synthetic micro‑ecosystem designed to validate the semantic and provenance substrates that underpin the full Knowledge Layer architecture. It provides a safe, controlled environment for testing PostgreSQL metadata schemas, Memgraph dependency graphs, deterministic SLM extraction, and Local Git provenance workflows before indexing the full 9,500‑document corpus. By operating on a small set of synthetic projects, the sandbox ensures that structural invariants, sync protocols, and metadata pipelines behave deterministically, reproducibly, and coherently across all layers of the system. This project is the mandatory precursor to large‑scale corpus ingestion, guaranteeing that the semantic backbone of the research ecosystem is stable, governed, and ready for programme‑level deployment.  
 
 ---
 
-**[Local Git](https://github.com/WilliamMurray-research/2026-1005-D)**  
+**[Local Git](https://github.com/WilliamMurray-research/2026-2005-D)**  
 (*Python, Rust*)
 
 A version‑controlled research system - a stripped-down local CLI with all extras removed.  
@@ -188,7 +188,7 @@ A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices,
 
 ---
 
-**[Landscape Digital Twin](https://github.com/WilliamMurray-research/2026-1018-D)**  (*Julia, SWI-Prolog, Common Lisp, Python*)
+**[Landscape Digital Twin](https://github.com/WilliamMurray-research/2026-2002-D)**  (*Julia, SWI-Prolog, Common Lisp, Python*)
 
 A symbolic-geometric digital twin framework modelling fragmented landscapes as a fiber bundle manifold stack, with a dynamic DSL for describing ecological entities, relations, and rewriting rules. Designed as the convergence point of the tensor algebra (9.0), Prolog metamorphism (6.0), and Lisp homoiconicity (7.0) workstreams.  
 `fiber bundles` `manifold stack` `dynamic DSL` `ecological connectivity` `digital twin` `symbolic rewriting` `landscape restoration`
