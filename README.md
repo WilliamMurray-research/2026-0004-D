@@ -63,7 +63,7 @@ This registry serves as the operational backbone for the broader programme: a un
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.   
 `systems architecture` `DSL design` `Prolog` `deterministic graphics`  
 
-_This repository is currently private due to its integration with proprietary rendering and telemetry tooling that cannot be publicly distributed. The project remains indexed within the programme, and a public‑safe variant will be released once the proprietary components are abstracted behind governed interfaces._
+_This repository is currently private due to its integration with proprietary tooling that cannot be publicly distributed. The project remains indexed within the programme, and a public‑safe variant will be released once the proprietary components are abstracted behind governed interfaces._
 
 ---
 
@@ -72,6 +72,8 @@ _This repository is currently private due to its integration with proprietary re
 
 A distributed plausibility‑anchored refinement system for stabilising conjectures across multiple nodes.  
 `multi‑node orchestration` `symbolic verification` `plausibility refinement` `convergence detection`
+
+_This repository is currently private due to its integration with proprietary tooling that cannot be publicly distributed. The project remains indexed within the programme, and a public‑safe variant will be released once the proprietary components are abstracted behind governed interfaces._
 
 ---
 
