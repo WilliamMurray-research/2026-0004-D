@@ -5,7 +5,7 @@
 **CLASSIFICATION**: D  
 
 **Document Reference**: `2026-0004-D-read-000`  
-# Foundations - README. 
+# Projects - Table of Contents   
 ### Governance  
 
 **Version**: 1.0       
