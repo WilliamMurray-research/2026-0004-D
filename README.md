@@ -151,7 +151,9 @@ A small, rule‑constrained rewriting model that converts any English into Austr
 **[Distributional Displacement Engine](https://github.com/WilliamMurray-research/2026-1012-C)**  (*SWI‑Prolog, Common Lisp, Julia, Python*)
 
 The anti‑normative counterpart to AusRewrite, it completes the bidirectional rewriting architecture by enforcing human‑irregularity constraints rather than style‑manual constraints, integrating upstream with metamorphic logic systems and downstream with operator‑tier linguistic frameworks.    
-`distribution sculpting` `semantic preservation` `entropy displacement` `syntactic asymmetry` `motif operators` `token‑variance modelling` `watermark perturbation` `governed rewriting`
+`distribution sculpting` `semantic preservation` `entropy displacement` `syntactic asymmetry` `motif operators` `token‑variance modelling` `watermark perturbation` `governed rewriting`  
+
+This repository is private due to its dual use nature.  
 
 ---
 
