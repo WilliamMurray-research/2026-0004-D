@@ -57,7 +57,7 @@ This registry serves as the operational backbone for the broader programme: a un
 
 ---
 
-**[Dynamic Island Wallpaper](https://github.com/WilliamMurray-research/2026-3001-D)**   
+**[Dynamic Island Wallpaper](https://github.com/WilliamMurray-research/2026-3001-C)**   
 (*SWI-Prolog, Python, JSON*)
 
 A deterministic pipeline combining telemetry, symbolic reasoning, a scene DSL, and procedural rendering.   
@@ -134,21 +134,21 @@ Extends Project 5 into grid topologies with state transitions, absorbing endpoin
 
 ---
 
-**[Information Representation via Tensors](https://github.com/WilliamMurray-research/2026-1011-D)**   (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems & Interop layer: *Rust, Python, Python, Apache Arrow/C-ABI*) 
+**[Information Representation via Tensors](https://github.com/WilliamMurray-research/2026-1006-D)**   (Core math: *Julia, WolframScript* | Semantic layer: *SWI-Prolog, Lisp* | Systems & Interop layer: *Rust, Python, Python, Apache Arrow/C-ABI*) 
 
 Studying how information can be represented directly as tensors, and how relationships between tensors generalise graph structures into higher‑dimensional topological manifolds. Focus areas include entropy, mutual information, tensor relations, and the behaviour of signal flow and compression under tensor‑based transformations.  
 `information theory` `tensor algebra` `tensor relations` `signal flow` `compression` `topological manifolds`
 
 ---
 
-**[AusRewrite](https://github.com/WilliamMurray-research/2026-1012-D)**   (*encoder–decoder transformer, rule tables, constrained decoding*)
+**[AusRewrite](https://github.com/WilliamMurray-research/2026-2007-D)**   (*encoder–decoder transformer, rule tables, constrained decoding*)
 
 A small, rule‑constrained rewriting model that converts any English into Australian Government Style Manual + AGLC‑compliant Australian English with deterministic, semantically faithful transformations.  
 `rewriting transformer` `semantic fidelity` `rule‑constrained decoding` `Australian English normalisation`
 
 ---
 
-**[Distributional Displacement Engine](https://github.com/WilliamMurray-research/2026-1019-D)**  (*SWI‑Prolog, Common Lisp, Julia, Python*)
+**[Distributional Displacement Engine](https://github.com/WilliamMurray-research/2026-1012-D)**  (*SWI‑Prolog, Common Lisp, Julia, Python*)
 
 The anti‑normative counterpart to AusRewrite, it completes the bidirectional rewriting architecture by enforcing human‑irregularity constraints rather than style‑manual constraints, integrating upstream with metamorphic logic systems and downstream with operator‑tier linguistic frameworks.    
 `distribution sculpting` `semantic preservation` `entropy displacement` `syntactic asymmetry` `motif operators` `token‑variance modelling` `watermark perturbation` `governed rewriting`
@@ -162,28 +162,28 @@ A governed, operator-tier fine-tuning pipeline aligning a coder model to Mojo’
 
 ---
 
-**[Speculative Decoding for Accuracy](https://github.com/WilliamMurray-research/2026-1014-D)** (*Gemma 3 270M, Gemma 3 1B*) 
+**[Speculative Decoding for Accuracy](https://github.com/WilliamMurray-research/2026-1008-D)** (*Gemma 3 270M, Gemma 3 1B*) 
 
 Testing the hypothesis that speculative decoding may be adopted to improve accuracy, using a two‑model pipeline in which a smaller draft model proposes tokens and a larger model performs probability‑based acceptance.  
 `ML inference` `probability-based acceptance` `multi-model pipelines` `reproducible research`
 
 ---
 
-**[Scaling‑Precision Ideation Lab](https://github.com/WilliamMurray-research/2026-1015-D)** (*llama.cpp, SWI‑Prolog, Python, quantization harness*) 
+**[Scaling‑Precision Ideation Lab](https://github.com/WilliamMurray-research/2026-1009-D)** (*llama.cpp, SWI‑Prolog, Python, quantization harness*) 
 
 Testing the hypothesis that large low‑Q models generate and shape conjectures more effectively than smaller high‑Q models, using paired Q2–Q4 ideation and Q16 verification pipelines with blind scoring, falsifiability metrics, and domain‑specific rigs for integer sequences and functional equations.   
 `quantization ablation` `mathematical ideation` `conjecture scoring` `scaling–precision crossover`
 
 ---
 
-**[Model Parameter Scale vs. Determinism](https://github.com/WilliamMurray-research/2026-1016-D)**  (*llama.cpp, SWI‑Prolog, Python, JSON*)
+**[Model Parameter Scale vs. Determinism](https://github.com/WilliamMurray-research/2026-1010-D)**  (*llama.cpp, SWI‑Prolog, Python, JSON*)
 
 A controlled ablation study examining how model parameter scale affects token‑level determinism, logit entropy, and sequence stability under fixed decoding conditions. Using a unified `llama.cpp` quantization harness and the probability‑based verification pipeline from Project 11.0, this module compares models from 270M → 70B to determine whether smaller LLMs appear “more deterministic” due to genuinely narrower latent manifolds or simply because reduced capacity induces entropy collapse in the output distribution.  
 `entropy analysis` `token‑variance measurement` `greedy‑alignment drift` `quantized sampling stability`
 
 ---
 
-**[Non‑Uniform Hyperbolic Hashimoto Dynamics](https://github.com/WilliamMurray-research/2026-1017-D)** (*Julia, SWI‑Prolog, JSON*)  
+**[Non‑Uniform Hyperbolic Hashimoto Dynamics](https://github.com/WilliamMurray-research/2026-1011-D)** (*Julia, SWI‑Prolog, JSON*)  
 
 A generalisation of Projects 5 and 8 into mixed-curvature, non-uniform lattices, integrating symbolic lattice specification with curvature‑weighted non‑backtracking operators and anisotropic hyperbolic‑type dynamical evolution.  
 `hyperbolic lattices` `non‑backtracking operators` `curvature‑weighted dynamics` `spectral geometry`
