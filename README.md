@@ -99,35 +99,35 @@ A version‑controlled research system - a stripped-down local CLI with all extr
 
 ---
 
-**[Non‑Backtracking Hashimoto Simulation](https://github.com/WilliamMurray-research/2026-1006-D)** (*Julia*)
+**[Non‑Backtracking Hashimoto Simulation](https://github.com/WilliamMurray-research/2026-1001-D)** (*Julia*)
 
 Hashimoto matrices (n=6) exploring non-backtracking walks and spectral behavior.  
 `graph theory` `spectral methods` `numerical computing` `Julia`
 
 ---
 
-**[Nonlinear Sigmoidal Hashimoto Dynamics](https://github.com/WilliamMurray-research/2026-1007-D)** (*Julia*)
+**[Nonlinear Sigmoidal Hashimoto Dynamics](https://github.com/WilliamMurray-research/2026-1002-D)** (*Julia*)
 
 A nonlinear extension of Project 5.0, introducing sigmoidal update rules and stability analysis into the n=6 Hashimoto operator. This project explores how non‑backtracking walks behave under nonlinear propagation constraints, deriving fixed points, limit cycles, and Jacobian stability conditions. It serves as the nonlinear bridge between the linear spectral foundation of 5.0 and the structured dynamical systems of 8.0, preceding the curvature‑weighted generalisation in 13.0.  
 `nonlinear operators` `sigmoid dynamics` `Jacobian stability` `fixed points` `limit cycles` `non‑backtracking walks`
 
 ---
 
-**[Prolog Metamorphism and Homoiconicity](https://github.com/WilliamMurray-research/2026-1008-D)** (*SWI-Prolog*)
+**[Prolog Metamorphism and Homoiconicity](https://github.com/WilliamMurray-research/2026-1003-D)** (*SWI-Prolog*)
 
 A meta‑level logic system that rewrites its own rules, predicates, and evaluation strategy.  
 `logic programming` `meta-interpreters` `rule rewriting` `symbolic metamorphism`
 
 ---
 
-**[Lisp Metamorphism and Homoiconicity](https://github.com/WilliamMurray-research/2026-1009-D)** (*Common-Lisp*)
+**[Lisp Metamorphism and Homoiconicity](https://github.com/WilliamMurray-research/2026-1004-D)** (*Common-Lisp*)
 
 A metamorphic Lisp system exploring AST rewriting, macro transformation, and meta‑circular evaluation.  
 `homoiconicity` `AST manipulation` `language design` `syntactic metamorphism`
 
 ---
 
-**[Grid‑Based Hashimoto State Machine](https://github.com/WilliamMurray-research/2026-1010-D)** (*Julia*)
+**[Grid‑Based Hashimoto State Machine](https://github.com/WilliamMurray-research/2026-1005-D)** (*Julia*)
 
 Extends Project 5 into grid topologies with state transitions, absorbing endpoints, and non-backtracking constraints.  
 `dynamical systems` `state machines` `grid simulation` `numerical iteration`
